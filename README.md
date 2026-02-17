@@ -1,7 +1,6 @@
-![Cypress E2E](https://github.com/jessicazhong004/cypress-saucedemo-e2e/actions/workflows/cypress.yml/badge.svg)
-
-
 # Cypress SauceDemo E2E
+
+![Cypress E2E](https://github.com/jessicazhong004/cypress-saucedemo-e2e/actions/workflows/cypress.yml/badge.svg)
 
 Minimal Cypress E2E demo against SauceDemo.
 
